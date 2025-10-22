@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=vauxite
+kernel.string=FOG
 kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.made=Nekostar
 message.word=
 do.devicecheck=1
 do.modules=0
